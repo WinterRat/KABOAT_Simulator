@@ -1,6 +1,8 @@
 # KABOAT_Simulator
 This Project was created for the simulation of the 'KABOAT' contest hosted by 'The Society of Naval Architects of Korea'
-
+<p align="center">
+  <img src="https://github.com/WinterRat/KABOAT_Simulator/issues/1">
+</p>
 The code will be uploaded after a few modifications.(Maybe a few weeks?)
 (Modifications due to asset use, function additions, and tutorial creation etc)
 

@@ -1,4 +1,4 @@
-# KABOAT_Simulator
+# Ship_Obstacle_Avoidance_Simulator
 This Project was created for ship obstacle avoidance simulation
 
 Unity ROS integrated Simulator (Window11 Unity21.3.4, Ubuntu 18.04 ROS melodic use WSL2)
